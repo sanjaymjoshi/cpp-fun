@@ -1,6 +1,6 @@
-def earthRadius():
-    return 3963
+def earthRadiusAtEquator_km():
+    return 6400
 
 # main
-print(earthRadius())
+print(earthRadiusAtEquator_km())
 
