@@ -1,5 +1,5 @@
 def earthRadius():
-    return 6400
+    return 3963
 
 # main
 print(earthRadius())
